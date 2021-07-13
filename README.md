@@ -2,12 +2,11 @@
 
 My name is Alan. This is my first website I am building using GitHub.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Here is a quick Mathematics question with solution
 
 ```markdown
-Syntax highlighted code block
+
+Bulleted
 
 # Header 1
 ## Header 2
