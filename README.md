@@ -68,6 +68,3 @@ brackets. You do the same thing but with a exclamation mark in front for images.
 [Link](url) and ![Image](src)
 ```
 
-### Check out my GitHub Repository for this Website
-
-Access it here: [alantran14/hello-world](https://github.com/alantran14/hello-world).
