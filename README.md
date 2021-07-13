@@ -4,25 +4,32 @@ My name is Alan. This is my first website I am building using GitHub.
 
 ### Here is a quick Number Theory and Algebra question
 
+
 ```markdown
 
 **Division Algorithm**
 If a, b are integers and b > 0, then 
 
            a = qb + r
-for unique integers q, r with r element of {0,1,...,b-1}.
-- q is the quotient and r is the remainder.
-- Note that a ![image](https://latex.codecogs.com/gif.latex?%5Cequiv) r (mod b).
-           
-#Example
+for unique integers q, r with 
+```
+![image](https://user-images.githubusercontent.com/61341916/125445536-7f518e53-4142-4dff-9e0a-8b5200886444.gif).
 
-24 = 2 x 10 + 4
+- q is the quotient and r is the remainder.
+- Note that:
+
+![image](https://user-images.githubusercontent.com/61341916/125444737-97961987-de3a-4a9e-a01b-fc4e1a0a6fcb.gif)
+
+### Example
+
+              24 = 2 x 10 + 4
           
 The **greatest common divisor** d = gcd(a,b) is the integer satisfying
 - d|a and d|b            
 - if g|a and g|b, the g|d
 
-#Example
+### Example
+
                gcd(24,10) = 2
                
 _Credits to Thomas Britz notes on Division Algorithm_
