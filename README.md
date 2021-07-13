@@ -8,7 +8,7 @@ My name is Alan. This is my first website I am building using GitHub.
 
 This is created using the markdown syntax. It gives a nice highlighted box to write in.
 
-Below is using hashtags to change the style of each heading.
+#Below is using hashtags to change the style of each heading.
 
 # Header 1
 ## Header 2
