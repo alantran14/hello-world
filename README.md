@@ -20,11 +20,13 @@ Below is using hashtags to change the style of each heading.
 1. Numbered
 2. List
 
-You can use double asterisk to **bold** words or use the underscore before and after for _italicize_ the word. You can also use the `back quote` to highlight a text in red.
+You can use double asterisk to **bold** words or use the underscore before and after for 
+_italicize_ the word. You can also use the `back quote` to highlight a text in red.
 
 **Bold** and _Italic_ and `Code` text
 
-For URL you write in square brackets what you want to hyperlink and the url in parentheses/round brackets. You do the same thing but with a exclamation mark in front for images.
+For URL you write in square brackets what you want to hyperlink and the url in parentheses/round 
+brackets. You do the same thing but with a exclamation mark in front for images.
 
 [Link](url) and ![Image](src)
 ```
