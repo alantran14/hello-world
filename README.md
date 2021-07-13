@@ -7,7 +7,7 @@ My name is Alan. This is my first website I am building using GitHub.
 ```markdown
 
 **Division Algorithm**
-If `a, b` are integers and b &gt 0, then 
+If `a, b` are integers and b &#8712 0, then 
 
            a= qb+r
 for unique integers q, r with r &isin {0,1,...,b-1}.
