@@ -25,8 +25,12 @@ for unique integers q, r with
               24 = 2 x 10 + 4
           
 The **greatest common divisor** d = gcd(a,b) is the integer satisfying
-- <d|a> and <d|b>           
-- if <g|a> and <g|b>, the <g|d>
+
+d|a and d|b  
+
+and/or
+
+if g|a and g|b, the g|d
 
 ### Example
 
