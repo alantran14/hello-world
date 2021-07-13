@@ -37,7 +37,7 @@ and/or
                gcd(24,10) = 2
                
 _Credits to Thomas Britz notes on Division Algorithm_
-```                
+          
 
 ### HTML Coding Stuff
 
