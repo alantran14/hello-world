@@ -4,10 +4,12 @@ My name is Alan. This is my first website I am building using GitHub.
 
 ### Here is a quick Number Theory and Algebra question
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">
+
 ```markdown
 
 **Division Algorithm**
-If `a, b` are integers and b &#8712 0, then 
+If `a, b` are integers and b > 0, then 
 
            a= qb+r
 for unique integers q, r with r &isin {0,1,...,b-1}.
