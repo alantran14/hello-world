@@ -2,13 +2,38 @@
 
 My name is Alan. This is my first website I am building using GitHub.
 
-### Here is a quick Mathematics question with solution
+### Here is a quick Number Theory and Algebra question
+
+```markdown
+
+**Division Algorithm**
+If `a, b` are integers and <b>0>, then 
+
+           <a= qb+r>
+for unique integers q, r with r \in {0,1,...,b-1}.
+- q is the quotient and r is the remainer.
+- Note that <a \equiv r (mod b)>.
+             
+#Example
+
+             <24 = 2 \times 10 + 4>
+The **greatest common divisir** <d = gcd(a,b)> is the integer satisfying
+- <d|a> and <d|b>             
+- if <g|a and g|b, the g|d>
+
+#Example
+               <gcd(24,10) = 2>
+               
+_Credits to Thomas Britz notes on Division Algorithm_
+```                
+
+### HTML Coding Stuff
 
 ```markdown
 
 This is created using the markdown syntax. It gives a nice highlighted box to write in.
 
-#Below is using hashtags to change the style of each heading.
+# Below is using hashtags to change the style of each heading.
 
 # Header 1
 ## Header 2
