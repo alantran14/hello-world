@@ -18,7 +18,7 @@ for unique integers q, r with r element of {0,1,...,b-1}.
 #Example
 
              24 = 2 x 10 + 4
-The **greatest common divisir** d = gcd(a,b) is the integer satisfying
+The **greatest common divisor** d = gcd(a,b) is the integer satisfying
 - d|a and d|b            
 - if g|a and g|b, the g|d
 
