@@ -26,11 +26,11 @@ for unique integers q, r with
           
 The **greatest common divisor** d = gcd(a,b) is the integer satisfying
 
-d|a and d|b  
+- d | a and d | b  
 
 and/or
 
-if g|a and g|b, the g|d
+- if g | a and g | b, the g | d
 
 ### Example
 
