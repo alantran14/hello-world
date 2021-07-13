@@ -7,22 +7,22 @@ My name is Alan. This is my first website I am building using GitHub.
 ```markdown
 
 **Division Algorithm**
-If `a, b` are integers and <b>0>, then 
+If `a, b` are integers and b &gt; 0, then 
 
-           <a= qb+r>
-for unique integers q, r with r \in {0,1,...,b-1}.
+           a= qb+r
+for unique integers q, r with r &isin; {0,1,...,b-1}.
 - q is the quotient and r is the remainer.
-- Note that <a \equiv r (mod b)>.
+- Note that a &equiv; r (mod b).
              
 #Example
 
-             <24 = 2 \times 10 + 4>
-The **greatest common divisir** <d = gcd(a,b)> is the integer satisfying
-- <d|a> and <d|b>             
-- if <g|a and g|b, the g|d>
+             24 = 2 x 10 + 4
+The **greatest common divisir** d = gcd(a,b) is the integer satisfying
+- d|a and d|b            
+- if g|a and g|b, the g|d
 
 #Example
-               <gcd(24,10) = 2>
+               gcd(24,10) = 2
                
 _Credits to Thomas Britz notes on Division Algorithm_
 ```                
