@@ -39,7 +39,7 @@ and/or
 _Credits to Thomas Britz notes on Division Algorithm_
           
 
-### HTML Coding Stuff
+### Markdown Coding Stuff
 
 ```markdown
 
