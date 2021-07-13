@@ -12,7 +12,7 @@ If `a, b` are integers and b > 0, then
 
            a = qb + r
 for unique integers q, r with r element of {0,1,...,b-1}.
-- q is the quotient and r is the remainer.
+- q is the quotient and r is the remainder.
 - Note that a &equiv r (mod b).
              
 #Example
