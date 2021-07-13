@@ -26,11 +26,11 @@ for unique integers q, r with
           
 The **greatest common divisor** d = gcd(a,b) is the integer satisfying
 
-- d | a and d | b  
+- d ![\divide](https://latex.codecogs.com/gif.download?%7C) a and d ![\divide](https://latex.codecogs.com/gif.download?%7C) b  
 
 and/or
 
-- if g | a and g | b, the g | d
+- if g ![\divide](https://latex.codecogs.com/gif.download?%7C) a and g ![\divide](https://latex.codecogs.com/gif.download?%7C) b, the g ![\divide](https://latex.codecogs.com/gif.download?%7C) d
 
 ### Example
 
