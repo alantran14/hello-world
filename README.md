@@ -7,12 +7,12 @@ My name is Alan. This is my first website I am building using GitHub.
 ```markdown
 
 **Division Algorithm**
-If `a, b` are integers and b &gt; 0, then 
+If `a, b` are integers and b &gt 0, then 
 
            a= qb+r
-for unique integers q, r with r &isin; {0,1,...,b-1}.
+for unique integers q, r with r &isin {0,1,...,b-1}.
 - q is the quotient and r is the remainer.
-- Note that a &equiv; r (mod b).
+- Note that a &equiv r (mod b).
              
 #Example
 
