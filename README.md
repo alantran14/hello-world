@@ -4,7 +4,6 @@ My name is Alan. This is my first website I am building using GitHub.
 
 ### Here is a quick Number Theory and Algebra question
 
-\in
 ```markdown
 
 **Division Algorithm**
